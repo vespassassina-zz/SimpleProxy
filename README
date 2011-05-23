@@ -1,0 +1,9 @@
+﻿Simple Proxy i a simple .Net web proxy, developed with VS 2010.
+
+It is born from the need to allow applications to access an authenticated proxy without direct authentication.
+
+In this case i would config SimpleProxy to use a parent proxy with username and password and then configure the client apps to use SimpleProxy.
+It is also possible to insert some logging code between Request/Respose and to inspect the passing traffic.
+It is also useful to do some logging or to debug webservices calls.
+
+If you use any of this code please let me know if it is useful and give some credits (if possible).
